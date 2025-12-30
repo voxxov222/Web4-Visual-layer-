@@ -1,0 +1,7 @@
+{
+  "name": "3d visualization hub",
+  "description": "A high-performance dashboard for monitoring, simulating, and optimizing complex computational engines, featuring AI-driven diagnostics powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
